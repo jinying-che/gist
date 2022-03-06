@@ -1,3 +1,9 @@
 [submodule "shadowsocks"]
 	path = shadowsocks
 	url = git@gist.github.com:ea1a207e6590f4b6b8f62760658a2665.git
+[submodule "docs/shadowsocks"]
+	path = docs/shadowsocks
+	url = git@gist.github.com:ea1a207e6590f4b6b8f62760658a2665.git
+[submodule "docs/go/std/go_sync"]
+	path = docs/go/std/go_sync
+	url = git@gist.github.com:36e56db094f955531a404ad6f3ab02af.git
